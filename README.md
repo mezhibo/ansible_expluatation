@@ -111,3 +111,6 @@ server {
 И теперь добавляем тэг 08-ansible-03-yandex и пушим в нашу репу 
 
 ![alt text](https://github.com/mezhibo/ansible_expluatation/blob/043bbea12f1bc0c292f9f734f16b404762a73998/IMG/3.jpg)
+
+
+[ССЫЛКА НА ФАЙЛЫ ДОМАШНЕГО ЗАДАНИЯ](https://github.com/mezhibo/mnt-homeworks/tree/19767fdc9e7d3102f2fa7513b77369e7a99e1dfa/08-ansible-03-yandex)
