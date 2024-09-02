@@ -40,7 +40,7 @@ necessary_packages:
   - nginx
 ```
 
-Для настройки ligthouse нам понадобится настроенный nginx, настроим мы его с помощью jinja tamplate.
+Для настройки ligthouse нам понадобится настроенный nginx, настроим мы его с помощью jinja template.
 
 Созаддим файл шаблона джинджа
 
